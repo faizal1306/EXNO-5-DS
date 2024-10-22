@@ -1,5 +1,6 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-
+# Name: Mohamed Faizal M 
+# reg no: 24000006
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
